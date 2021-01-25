@@ -1,6 +1,6 @@
 # Dino Game
 
-![Dino Game](https://raw.githubusercontent.com/HeberSilverio/Snake-game/main/imagens/Snake-game.PNG)
+![Dino Game](https://github.com/HeberSilverio/Dino-game/blob/main/images/example.png)
 
 ### 🎫 Descrição do projeto
 
