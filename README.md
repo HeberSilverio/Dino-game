@@ -1,14 +1,11 @@
 # Dino Game
 
-![Dino Game](https://github.com/HeberSilverio/Dino-game/blob/main/images/example.png)
+![Dino Game](https://raw.githubusercontent.com/HeberSilverio/Dino-game/main/images/dino-game.gif)
 
 ### 🎫 Descrição do projeto
 
 Projeto desenvolvido durante o bootcamp START_UNI 2021 da Dio.
 O bootcamp START_UNI 2021 #1 é um programa gratuito para formação de desenvolvedores front-end, back-end e testers, sendo a porta de entrada para os devs conquistarem um estágio na empresa multinacional alemã GFT Brasil.
-
-
-Adicionei um estilo visual ao jogo e adicionei as funções: Pontuação (Score), Velocidade (Level) e Borda (Border). O jogo agora conta pontuação a cada "maçã comida" pela cobra. Também é possível aumentar a velocidade do jogo e adicionar ou remover uma borda, onde a cobra não possa atravessar para o outro lado, deixando o jogo mais difícil.
 
 
 ### ⌨️ Como executar o projeto
